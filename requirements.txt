@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+matplotlib
+networkx
+wordcloud
+scikit-learn
+python-louvain
+streamlit
