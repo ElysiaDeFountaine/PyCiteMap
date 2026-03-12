@@ -125,7 +125,7 @@ outputs/
 启动 Web 应用：
 
 ```bash
-streamlit run web_app.py
+streamlit run WebApp.py
 ```
 
 浏览器打开：
@@ -144,7 +144,7 @@ http://localhost:8501
 PyCiteMap
 │
 ├── app.py
-├── web_app.py
+├── WebApp.py
 ├── requirements.txt
 │
 ├── src
